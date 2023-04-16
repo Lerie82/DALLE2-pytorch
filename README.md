@@ -56,7 +56,7 @@ This library would not have gotten to this working state without the help of
 ## Install
 
 ```bash
-$ pip install dalle2-pytorch
+pip install dalle2-pytorch
 ```
 
 ## Usage
